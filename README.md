@@ -81,7 +81,7 @@ week16-ecommerce/
 
 ```bash
 git clone <repository-url>
-cd week16-ecommerce
+cd Django-ecommerce-backend
 ```
 
 ### 2. Set up and activate a virtual environment
